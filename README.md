@@ -8,7 +8,7 @@ I'm Adithya, a 22-year-old Full-Stack Designer from Bengaluru, India.
 
 I'm a React nanodegree graduate, and an IDF certified UX Designer. Free time is hard to come by, but when it does, I freelance and craft web apps for a living.  
 
-#### BACKGROUND  
+#### Background 
 
 I studied computer science and engineering at RNS Institute of Technology, Bangalore. During my time at RNSIT, I volunteered as a graphic designer with a small team that helped me jumpstart and hone my skills as a digital designer.  
 
