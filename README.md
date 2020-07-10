@@ -12,7 +12,7 @@ I'm a React nanodegree graduate, and an IDF certified UX Designer. Free time is 
 
 I studied computer science and engineering at RNS Institute of Technology, Bangalore. During my time at RNSIT, I volunteered as a graphic designer with a small team that helped me jumpstart and hone my skills as a digital designer.  
 
-Aside from design, I also build web apps using the technologies like React, Node and many more tools. I'm currently working at [Betsol](https://betsol.com) as a Web Architect on a product called Leto. I'm involved in the design (both UI/UX and architecture) and development of the product using React, Redux, Node and Postgres.
+Aside from design, I also build web apps using technologies like React, Node and many more tools. I'm currently working at [Betsol](https://betsol.com) as a Web Architect on a product called Leto. I'm involved in the design (both UI/UX and architecture) and development of the product using React, Redux, Node and Postgres.
 
 #### Skills
 
