@@ -29,3 +29,5 @@ Aside from design, I also build web apps using technologies like React, Node and
 - 🎨 My designs: [Dribbble](https://dribbble.com/adithyanr), [Behance](https://behance.net/adithyabhat)
 - 📑 My Blog: https://v4.adithyabhat.com/blog
 - 📫 How to reach me: [website](https://v4.adithyabhat.com/contact), [twitter](https://twitter.com/adithya__nr), [LinkedIn](https://linkedin.com/in/adithya-nr)
+
+![Adithya's stats](https://github-readme-stats.vercel.app/api?username=adithyabhat17&show_icons=true&hide_title=true)
