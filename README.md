@@ -19,7 +19,7 @@ Aside from design, I also build web apps using technologies like React, Node and
 - Design
   - UI, UX, Wireframing, Prototyping, Web design
 - Development
-  - JavaScript, Reactjs, Redux, Express, Nodejs, TypeScript, Nextjs, GraphQL, PostgreSQL
+  - JavaScript, Reactjs, Redux, Express, Nodejs, TypeScript, Nextjs, GraphQL, PostgreSQL, Docker.
   
 #### What I'm upto these days...
 
