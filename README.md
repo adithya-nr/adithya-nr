@@ -23,7 +23,7 @@ Aside from design, I also build web apps using technologies like React, Node and
   
 #### What I'm upto these days...
 
-- 🔭 I’m currently working on my [new website](https://v4.adithyabhat.com/about) (got bored of my [old website](https://adithyabhat.com) :/)
+- 🔭 I’m currently working on [Homero](https://heyhomero.com) and my [new website](https://v4.adithyabhat.com/about)
 - 🌱 I’m currently learning [Rust](https://rust-lang.org)
 - 💻 My recent projects: [Homero](https://heyhomero.com), [Trayah Pottery](https://trayahpottery.com)
 - 🎨 My designs: [Dribbble](https://dribbble.com/adithyanr), [Behance](https://behance.net/adithyabhat)
