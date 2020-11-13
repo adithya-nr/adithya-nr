@@ -30,7 +30,7 @@ Aside from design, I also build web apps using technologies like React, Node and
 - 📑 My Blog: https://v4.adithyabhat.com/blog
 - 📫 How to reach me: [website](https://v4.adithyabhat.com/contact), [twitter](https://twitter.com/adithya__nr), [LinkedIn](https://linkedin.com/in/adithya-nr)
 
-![Adithya's stats](https://github-readme-stats.vercel.app/api?username=adithyabhat17&show_icons=true&hide_title=true)  
+![Adithya's stats](https://github-readme-stats.vercel.app/api?username=adithyabhat17&show_icons=true&hide_title=true&count_private=true)  
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithyabhat17&hide=css,html" alt="adithyabhat17" />
 
