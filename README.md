@@ -23,12 +23,12 @@ Aside from design, I also build web apps using technologies like React, Node and
   
 #### What I'm upto these days...
 
-- 🔭 I’m currently working on [Homero](https://heyhomero.com) and my [new website](https://v4.adithyabhat.com/)
-- 🌱 I’m currently learning [Rust](https://rust-lang.org)
+- 🔭 I’m currently working on [Homero](https://heyhomero.com)
+- 🌱 I’m currently learning [TypeScript](https://ui.dev) and [Rust](https://rust-lang.org)
 - 💻 My recent projects: [Homero](https://heyhomero.com), [Trayah Pottery](https://trayahpottery.com)
 - 🎨 My designs: [Dribbble](https://dribbble.com/adithyanr), [Behance](https://behance.net/adithyabhat)
-- 📑 My Blog: https://v4.adithyabhat.com/blog
-- 📫 How to reach me: [website](https://v4.adithyabhat.com/contact), [twitter](https://twitter.com/adithya__nr), [LinkedIn](https://linkedin.com/in/adithya-nr)
+- 📑 My Blog: https://adithyabhat.com/blog
+- 📫 How to reach me: [website](https://adithyabhat.com/contact), [twitter](https://twitter.com/adithya__nr), [LinkedIn](https://linkedin.com/in/adithya-nr)
 
 ![Adithya's stats](https://github-readme-stats.vercel.app/api?username=adithyabhat17&show_icons=true&hide_title=true&count_private=true)  
 
