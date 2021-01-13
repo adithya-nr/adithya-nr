@@ -24,7 +24,7 @@ Besides design, I also build web apps using React, Node, and many more tools. I'
 #### What I'm up to these days...
 
 - 🔭 I’m currently working on DevOps and Analytics products at [Betsol](https://www.betsol.com/devops-services/).
-- 🌱 I’m currently learning [TypeScript](https://ui.dev) and [Rust](https://rust-lang.org)
+- 🌱 I’m currently learning [TypeScript](https://ui.dev), [Cypress](https://www.cypress.io/), and [GraphQL](https://graphql.org/)
 - 💻 My recent projects: [Homero](https://heyhomero.com), [Trayah Pottery](https://trayahpottery.com)
 - 🎨 My designs: [Dribbble](https://dribbble.com/adithyanr), [Behance](https://behance.net/adithyabhat)
 - 📑 My Blog: https://adithyabhat.com/blog
