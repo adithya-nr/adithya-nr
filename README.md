@@ -4,7 +4,7 @@
 **AdithyaBhat17/AdithyaBhat17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I'm Adithya, a 22-year-old Full-Stack Designer from Bengaluru, India.  
+I'm Adithya, a 23-year-old Full-Stack Designer from Bengaluru, India.  
 
 I'm a React nanodegree graduate and an IDF certified UX Designer. Free time is hard to come by, but I freelance and craft web apps for a living when it does.  
 
