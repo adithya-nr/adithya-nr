@@ -25,7 +25,7 @@ I'm currently working on the [Culture+™](https://www.softway.com/b2e) product 
 
 - 🔭 I’m currently working on [B2E](https://www.softway.com/b2e) products at [Softway](https://www.softway.com/).
 - 📖 I’m currently reading [Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits)
-- 💻 My recent projects: [Homero](https://heyhomero.com), [Trayah Pottery](https://trayahpottery.com)
+- 💻 My recent projects: [Homero](https://heyhomero.com)
 - 🎨 My designs: [Dribbble](https://dribbble.com/adithyanr), [Behance](https://behance.net/adithyabhat)
 - 📑 My Blog: https://adithyabhat.com/blog
 - 📫 How to reach me: [website](https://adithyabhat.com/contact), [twitter](https://twitter.com/adithya__nr), [LinkedIn](https://linkedin.com/in/adithya-nr)
