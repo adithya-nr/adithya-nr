@@ -12,7 +12,7 @@ I'm a React nanodegree graduate and an IDF certified UX Designer. Free time is h
 
 I studied computer science and engineering at RNS Institute of Technology, Bangalore. During my time at RNSIT, I volunteered as a graphic designer with a small team that helped me jump-start and hone my digital designer skills.   
 
-I'm currently working on the [Culture+™](https://www.softway.com/b2e) product suite at [Softway](https://www.softway.com/) as a UX Engineer. Besides design, I also build web apps using React, Node, and many more tools.
+I'm currently working on the [Culture+™](https://www.culture-plus.com/) product suite at [Softway](https://www.softway.com/) as a UX Engineer. Besides design, I also build web apps using React, Node, and many more tools.
 
 #### Skills
 
@@ -23,7 +23,7 @@ I'm currently working on the [Culture+™](https://www.softway.com/b2e) product 
   
 #### What I'm up to these days...
 
-- 🔭 I’m currently working on [B2E](https://www.softway.com/b2e) products at [Softway](https://www.softway.com/).
+- 🔭 I’m currently working on [D&I](https://www.culture-plus.com/) products at [Softway](https://www.softway.com/).
 - 📖 I’m currently reading [Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits)
 - 💻 My recent projects: [Homero](https://heyhomero.com)
 - 🎨 My designs: [Dribbble](https://dribbble.com/adithyanr), [Behance](https://behance.net/adithyabhat)
