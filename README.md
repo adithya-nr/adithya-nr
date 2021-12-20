@@ -6,13 +6,11 @@
 
 I'm Adithya, a 23-year-old UX Engineer from Bengaluru, India.  
 
-I'm a React nanodegree graduate and an IDF certified UX Designer. Free time is hard to come by, but I freelance and craft web apps for a living when it does.  
+For more than 3 years now, design has been the central piece of my world. On this quick and mind-blowing journey, I have moved over the years from being a graphic designer to a full-time UX Designer and UI Engineer.
 
-#### Background 
+With a never-ending goal of maintaining a high standard for usability & user experience, I have consistently worked with various startups and clients worldwide and helped them create unique and engaging digital products.
 
-I studied computer science and engineering at RNS Institute of Technology, Bangalore. During my time at RNSIT, I volunteered as a graphic designer with a small team that helped me jump-start and hone my digital designer skills.   
-
-I'm currently working on the [Culture+™](https://www.culture-plus.com/) product suite at [Softway](https://www.softway.com/) as a UX Engineer. Besides design, I also build web apps using React, Node, and many more tools.
+I'm currently working with the Platform team at [yellow.ai](https://yellow.ai) as a Software Engineer (SDE-2).
 
 #### Skills
 
@@ -23,7 +21,7 @@ I'm currently working on the [Culture+™](https://www.culture-plus.com/) produc
   
 #### What I'm up to these days...
 
-- 🔭 I’m currently working on [D&I](https://www.culture-plus.com/) products at [Softway](https://www.softway.com/).
+- 🔭 I’m currently working on the Convesational AI Platform at [yellow.ai](https://yellow.ai/).
 - 📖 I’m currently reading [Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits)
 - 💻 My recent projects: [Homero](https://heyhomero.com)
 - 🎨 My designs: [Dribbble](https://dribbble.com/adithyanr), [Behance](https://behance.net/adithyabhat)
