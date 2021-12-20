@@ -21,7 +21,7 @@ I'm currently working with the Platform team at [yellow.ai](https://yellow.ai) a
   
 #### What I'm up to these days...
 
-- 🔭 I’m currently working on the Convesational AI Platform at [yellow.ai](https://yellow.ai/).
+- 🔭 I’m currently working on the Convesational CX Platform at [yellow.ai](https://yellow.ai/).
 - 📖 I’m currently reading [Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits)
 - 💻 My recent projects: [Homero](https://heyhomero.com)
 - 🎨 My designs: [Dribbble](https://dribbble.com/adithyanr), [Behance](https://behance.net/adithyabhat)
