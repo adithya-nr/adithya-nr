@@ -4,7 +4,7 @@
 **AdithyaBhat17/AdithyaBhat17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I'm Adithya, a 23-year-old UX Engineer from Bengaluru, India.  
+I'm Adithya, a UX Engineer from Bengaluru, India.  
 
 For more than 3 years now, design has been the central piece of my world. On this quick and mind-blowing journey, I have moved over the years from being a graphic designer to a full-time UX Designer and UI Engineer.
 
