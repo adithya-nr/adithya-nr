@@ -22,7 +22,7 @@ I'm currently working with the Platform team at [yellow.ai](https://yellow.ai) a
 #### What I'm up to these days...
 
 - 🔭 I’m currently working on the Conversational CX Platform at [yellow.ai](https://yellow.ai/).
-- 📖 I’m currently reading [Just Keep Buying](https://www.goodreads.com/book/show/59046778-just-keep-buying)
+- 📖 I’m currently reading [Building a Second Brain](https://www.goodreads.com/book/show/59616977-building-a-second-brain)
 - 💻 My recent projects: [Homero](https://heyhomero.com)
 - 🎨 My designs: [Dribbble](https://dribbble.com/adithyanr), [Behance](https://behance.net/adithyabhat)
 - 📑 My Blog: https://adithyabhat.com/blog
