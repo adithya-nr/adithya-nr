@@ -6,7 +6,7 @@
 
 I'm Adithya, a UX Engineer from Bengaluru, India.  
 
-For more than 3 years now, design has been the central piece of my world. On this quick and mind-blowing journey, I have moved over the years from being a graphic designer to a full-time UX Designer and UI Engineer.
+For more than 4 years now, design has been the central piece of my world. On this quick and mind-blowing journey, I have moved over the years from being a graphic designer to a full-time UX Designer and UI Engineer.
 
 With a never-ending goal of maintaining a high standard for usability & user experience, I have consistently worked with various startups and clients worldwide and helped them create unique and engaging digital products.
 
