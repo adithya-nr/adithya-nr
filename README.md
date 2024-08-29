@@ -21,7 +21,7 @@ I'm currently working with the Platform team at [yellow.ai](https://yellow.ai) a
   
 #### What I'm up to these days...
 
-- 🔭 I’m currently working on the [Analyze](https://yellow.ai/platform/analyze/) at [yellow.ai](https://yellow.ai/).
+- 🔭 I’m currently working on [Analyze](https://yellow.ai/platform/analyze/) at [yellow.ai](https://yellow.ai/).
 - 📖 I’m currently reading [Liar's Poker](https://www.goodreads.com/book/show/7865083-liar-s-poker) by Michael Lewis.
 - 📑 My Blog: https://adithyabhat.com/blog
 
