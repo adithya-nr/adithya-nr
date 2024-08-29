@@ -6,11 +6,11 @@
 
 I'm Adithya, a UX Engineer from Bengaluru, India.  
 
-For more than 4 years now, design has been the central piece of my world. On this quick and mind-blowing journey, I have moved over the years from being a graphic designer to a full-time UX Designer and UI Engineer.
+For more than 5 years now, design has been the central piece of my world. On this quick and mind-blowing journey, I have moved over the years from being a graphic designer to a full-time UX Designer and UI Engineer.
 
 With a never-ending goal of maintaining a high standard for usability & user experience, I have consistently worked with various startups and clients worldwide and helped them create unique and engaging digital products.
 
-I'm currently working with the Platform team at [yellow.ai](https://yellow.ai) as a Software Engineer (SDE-2).
+I'm currently working with the Platform team at [yellow.ai](https://yellow.ai) as a Software Engineer (SDE-3).
 
 #### Skills
 
@@ -21,13 +21,10 @@ I'm currently working with the Platform team at [yellow.ai](https://yellow.ai) a
   
 #### What I'm up to these days...
 
-- 🔭 I’m currently working on the Conversational CX Platform at [yellow.ai](https://yellow.ai/).
-- 📖 I’m currently reading [The Art of Thinking Clearly by Rolf Dobelli](https://www.goodreads.com/book/show/16248196-the-art-of-thinking-clearly)
-- 💻 My recent projects: [Homero](https://heyhomero.com)
-- 🎨 My designs: [Dribbble](https://dribbble.com/adithyanr), [Behance](https://behance.net/adithyabhat)
+- 🔭 I’m currently working on the [Analyze](https://yellow.ai/platform/analyze/) at [yellow.ai](https://yellow.ai/).
+- 📖 I’m currently reading [Liar's Poker](https://www.goodreads.com/book/show/7865083-liar-s-poker) by Michael Lewis.
 - 📑 My Blog: https://adithyabhat.com/blog
-- 📫 How to reach me: [website](https://adithyabhat.com/contact), [twitter](https://twitter.com/adithya__nr), [LinkedIn](https://linkedin.com/in/adithya-nr)
 
-![Adithya's stats](https://github-readme-stats.vercel.app/api?username=adithyabhat17&show_icons=true&hide_title=true&count_private=true)  
+![Adithya's stats](https://github-readme-stats.vercel.app/api?username=adithya-nr&show_icons=true&hide_title=true&count_private=true)  
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithyabhat17&hide=css,html" alt="adithyabhat17" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithya-nr&hide=css,html" alt="adithya-nr" />
